@@ -11,3 +11,6 @@ login_system2 uses email for autentification, login contains show password and t
 3. Create a new database
 4. Click on it, import "users.sql" file
 5. Installation is complete. You can access project when you type in "localhost/login_system"
+
+## To Do List
+- [ ] Further enchance validation and security
